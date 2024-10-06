@@ -19,5 +19,8 @@ Bienvenue dans le projet **Pizza Recipes**! Ce projet consiste en une applicatio
 
 
 
-https://github.com/user-attachments/assets/3a0e3a88-63f4-49a2-8141-d0b6a5a2874a
+## Vidéo de Présentation
 
+Voici la vidéo de présentation de l'application **Pizza Recipes** :
+
+[Regarder la vidéo](https://github.com/user-attachments/assets/3a0e3a88-63f4-49a2-8141-d0b6a5a2874a)
