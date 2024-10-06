@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pizza</string>
+    <string name="make_your_pizzas">Make your pizzas</string>
+    <string name="pizza_recipes">Pizza Recipes</string>
+</resources>
